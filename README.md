@@ -1,6 +1,6 @@
 ### Webpack 5 study
 
-#### how to start
+#### How to start
 ```js
 npm install // install npm packages
 ```
